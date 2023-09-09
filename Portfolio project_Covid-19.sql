@@ -1,4 +1,4 @@
-			-- COVID-19 ON 2020   (by: Dimas Bagus Setiawan)
+			-- COVID-19 ON 2020   (by: Dimas Bagus Setiawan)	Project in MySQL
             
 select * from full_grouped;		-- main table
 select * from covid_19_clean;   -- table 1
